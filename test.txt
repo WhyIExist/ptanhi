@@ -1,16 +1,4 @@
-chlo shuru krte 
-aap hai?
-mereko yeh btao git ka kya pta hai 
+badiya aap sunao
 
-git :-) XD 
-sahi sahi btao bhai
-
-git init
-git add 
-git commit -m 
-git pull
-git push
-
-bs itna -> bs itna hi chahiye hota bhai XD
-acha chlo aaj hum repo se baat krte hai XD 
-apna vscode kholo
+😁😁
+test
