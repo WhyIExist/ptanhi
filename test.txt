@@ -1,6 +1,10 @@
 badiya aap sunao
+<<<<<<< HEAD
 this is one of the changes
 my changes ......
+=======
+dsadkdksdksdalsk
+>>>>>>> 0dabc8e4022582990622e0095f1db335ba202dbd
 😁😁
 test
 dsjklasjdasdlskqwiqiwoqowioqiwoqiwiqioo😁😁
