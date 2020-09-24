@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 badiya aap sunao
 <<<<<<< HEAD
 this is one of the changes
@@ -11,3 +12,9 @@ dsjklasjdasdlskqwiqiwoqowioqiwoqiwiqioo😁😁
 test
 
 Git history
+=======
+badiya bdia aap sunao
+ek dum changa ji
+😁😁
+test
+>>>>>>> f99d8ed342e45836157592431652830d8474f1f3
